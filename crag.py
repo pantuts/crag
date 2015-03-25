@@ -29,6 +29,7 @@ FLAGGED = 0
 # variable for unsuccessful retries. max is 20
 PROXY_RETRIES = 0
 
+
 def usage():
     print 'python2.7 crag.py links.txt proxies.txt'
 
