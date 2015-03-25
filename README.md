@@ -1,7 +1,7 @@
 # crag
 PoC craiglist flagging bot
 
-This is only a PoC.
+###### Note: This is only a PoC.
 
 ##### Agreement: This script is for educational purposes only. By using this script you agree that you alone will be responsible for any act you make. The author will not be liable of your actions.
 
