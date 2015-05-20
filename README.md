@@ -1,5 +1,5 @@
 # crag
-PoC craiglist flagging bot
+PoC craiglist flagging bot.
 
 ###### Note: This is only a PoC.
 
